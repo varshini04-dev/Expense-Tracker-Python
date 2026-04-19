@@ -1,36 +1,36 @@
-# 💰 Expense Tracker (Python)
+💰 Expense Tracker (Python)
 
 A simple console-based application to track daily expenses using Python.
 This project demonstrates file handling, data storage using CSV, and basic data analysis using Python.
 
-## 🚀 Features
+🚀 Features
 - Add daily expenses
 - Categorize expenses (Food, Travel, Bills, etc.)
 - View total spending
 - Category-wise expense summary
 - View all recorded expenses
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - Python
 - CSV file handling
 
-## ▶️ How to Run
+▶️ How to Run
 1. Open the project in VS Code
 2. Run the file:
    python expense_tracker.py
 3. Follow the menu options
 
-## 📌 Project Description
+📌 Project Description
 This project helps users manage their daily expenses by storing data in a CSV file and providing insights like total spending and category-wise analysis.
 This project demonstrates file handling, data storage using CSV, and basic data analysis using Python.
 
-## 📁 Future Improvements
+📁 Future Improvements
 Add graphical UI using Tkinter
 Export reports as PDF
 Add login system
 Add monthly analytics charts
 
-## 📷 Sample Output
+📷 Sample Output
 Example:
 === Personal Expense Tracker ===
 
@@ -63,6 +63,3 @@ Choose an option: 3
 
 Choose an option: 4
 Goodbye!
-
-## 👩‍💻 Author
-Varshini
